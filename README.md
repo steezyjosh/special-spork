@@ -1,2 +1,0 @@
-# special-spork
-For practice
